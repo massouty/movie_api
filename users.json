@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "ObjectId('630e8d341575e72978ab09e8')",
+    "userName": "juliamaria123",
+    "password": "juliaamarillo0022",
+    "email": "juliamaria@gmail.com",
+    "Birthday": "ISODate('1988-04-18T00:00:00.000Z')",
+    "favoriteMovies": "[ 'Hangover' ]"
+  },
+  {
+    "_id": "ObjectId('630e8eb91575e72978ab09e9')",
+    "userName": "davidpower",
+    "password": "lamia555" ,
+    "email" :"david_elgrande@gmail.com",
+    "Birthday": "ISODate('1996-08-29T00:00:00.000Z')",
+    "favoriteMovies": "[ 'Coco' ]"
+  },
+  {
+    "_id": "ObjectId('630e961a1575e72978ab09ea')",
+    "userName": "elver_75",
+    "password": "best7788",
+    "email": "juliamaria@gmail.com",
+    "Birthday": "ISODate('1975-07-20T00:00:00.000Z')",
+    "favoriteMovies": "[ ObjectId('630dd99a1865a0e50b7c4d6e'), 'The Hobbit', 'Midway' ]"
+  },
+  {
+    "_id": "ObjectId('630ea1c51575e72978ab09ec')",
+    "userName": "mass69",
+    "password": "love777",
+    "email": "massouty@outlook.com",
+    "Birthday": "ISODate('1969-05-01T00:00:00.000Z')",
+    "favoriteMovies":"[ 'Braveheart' ]"
+  }
+]
